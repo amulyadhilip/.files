@@ -9,6 +9,7 @@ export PATH=$USER_BIN:$PATH
 export SHELL="/home/linuxbrew/.linuxbrew/bin/bash"
 export USER_BIN=$HOME/bin
 export PYTHONBREAKPOINT=ipdb.set_trace
+export PIPENV_VENV_IN_PROJECT=1
 
 # 1st Degree Derivatives (Depends only on Independant vars)
 export PATH=$GOPATH/bin:$PATH

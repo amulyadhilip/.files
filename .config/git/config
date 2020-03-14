@@ -146,4 +146,4 @@
 [credential]
 	helper = store
 [http]
-	sslVerify = true
+	sslverify = false
